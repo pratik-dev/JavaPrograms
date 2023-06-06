@@ -19,6 +19,7 @@ public class addition
 				System.out.println("Enter a number: ");
 				 x[i]= Integer.parseInt(dis.readLine());
 				 sum=sum+x[i];
+				 int u = sum/0;
 			}
 			
 		  
